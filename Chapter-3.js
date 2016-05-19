@@ -44,7 +44,7 @@ function beanCounting(string, char) {
 	return result
 }
 
-// console.log(beanCounting('heeeello', 'e'))
+// console.log(beanCounting('heeeello', 'e')) 
 
 
 
